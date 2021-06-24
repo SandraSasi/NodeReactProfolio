@@ -1,0 +1,25 @@
+{
+  "name": "sandrasasi.github.io",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandraSasi/sandrasasi.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandraSasi/sandrasasi.github.io/issues"
+  },
+  "homepage": "https://github.com/SandraSasi/sandrasasi.github.io#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.0",
+    "nodemailer-mailgun-transport": "^2.1.3"
+  }
+}
